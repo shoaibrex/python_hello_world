@@ -1,3 +1,3 @@
 # This program prints Hello, world!
 
-print('Hello, world! Adding changes from eit'
+print('Hello, world! Adding changes from eit')
